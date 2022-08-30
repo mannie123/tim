@@ -1,0 +1,21 @@
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;   
+
+  }
+
+
+  .app h2{
+font-size: 90px;
+padding: 10%;
+  }
+
+  .app p{
+    font-size: 30px;
+  }
+
+  .notes{
+    font-size: 15px;
+  }
